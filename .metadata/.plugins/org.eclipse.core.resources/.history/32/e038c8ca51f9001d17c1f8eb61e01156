@@ -1,0 +1,89 @@
+package com.instagram.api.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.instagram.api.dto.UserDto;
+import com.instagram.api.exceptions.PostException;
+import com.instagram.api.exceptions.UserException;
+import com.instagram.api.model.Post;
+import com.instagram.api.model.UserModel;
+import com.instagram.api.repository.PostRepository;
+
+@Service
+public class PostServiceImpl implements PostService {
+
+	@Autowired
+	private PostRepository postRepository;
+
+	@Autowired
+	private UserService userService;
+
+	@Override
+	public Post createPost(Post post, Integer userId) throws UserException {
+		UserModel user = userService.findUserById(userId);
+
+		UserDto userDto = new UserDto();
+		userDto.setEmail(user.getEmail());
+		userDto.setId(user.getId());
+		userDto.setName(user.getName());
+		userDto.setUserImage(user.getImage());
+		userDto.setUsername(user.getUsername());
+
+		post.setUser(userDto);
+
+		Post createdPost = postRepository.save(post);
+		return createdPost;
+	}
+
+	@Override
+	public Post deletePost(Integer postId, Integer userId) throws UserException, PostException {
+
+		return null;
+	}
+
+	@Override
+	public List<Post> findPostByUserId(Integer userId) throws UserException {
+
+		return null;
+	}
+
+	@Override
+	public Post findPostById(Integer postId) throws PostException {
+
+		return null;
+	}
+
+	@Override
+	public List<Post> findAllPostByUserIds(List<Integer> userIds) throws PostException, UserException {
+
+		return null;
+	}
+
+	@Override
+	public String savePost(Integer postId, Integer userId) throws PostException, UserException {
+
+		return null;
+	}
+
+	@Override
+	public String unsavePost(Integer postId, Integer userId) throws PostException, UserException {
+
+		return null;
+	}
+
+	@Override
+	public Post likePost(Integer postId, Integer userId) throws PostException, UserException {
+
+		return null;
+	}
+
+	@Override
+	public Post unlikePost(Integer postId, Integer userId) throws PostException, UserException {
+
+		return null;
+	}
+
+}

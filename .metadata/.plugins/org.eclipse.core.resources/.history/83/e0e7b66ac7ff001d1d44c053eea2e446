@@ -1,0 +1,226 @@
+package com.instagram.api.service.impl;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Service;
+
+import com.instagram.api.dto.UserDto;
+import com.instagram.api.exceptions.UserException;
+import com.instagram.api.model.UserModel;
+import com.instagram.api.repository.UserRepository;
+import com.instagram.api.security.JwtTokenClaims;
+import com.instagram.api.security.JwtTokenProvider;
+import com.instagram.api.service.UserService;
+
+@Service
+public class UserServiceImpl implements UserService {
+
+	@Autowired
+	private UserRepository userRepository;
+
+	@Autowired
+	private PasswordEncoder passwordEncoder;
+
+	@Autowired
+	private JwtTokenProvider jwtTokenProvider;
+
+	@Override
+	public List<UserModel> findAllUser() throws UserException {
+		List<UserModel> users = userRepository.findAll();
+		if (users.size() == 0) {
+			throw new UserException("user not exist");
+		}
+		return users;
+	}
+
+	@Override
+	public UserModel registerUser(UserModel user) throws UserException {
+		
+		Optional<UserModel> isEmailExist = userRepository.findByEmail(user.getEmail());
+		if (isEmailExist.isPresent()) {
+			throw new UserException("Email Already Exist.");
+		}
+
+		Optional<UserModel> isUsernameExist = userRepository.findByUsername(user.getUsername());
+		if (isUsernameExist.isPresent()) {
+			throw new UserException("Username Already Taken");
+		}
+
+		if (user.getEmail() == null || user.getUsername() == null || user.getPassword() == null) {
+			throw new UserException("Email, Usernam and Password are required");
+		}
+
+		String encodedPassword = passwordEncoder.encode(user.getPassword());
+
+		UserModel newUser = new UserModel();
+
+		newUser.setEmail(user.getEmail());
+		newUser.setPassword(encodedPassword);
+		newUser.setUsername(user.getUsername());
+		newUser.setName(user.getName());
+
+		return userRepository.save(newUser);
+	}
+
+	@Override
+	public UserModel findUserById(Integer userId) throws UserException {
+		Optional<UserModel> optionalUser = userRepository.findById(userId);
+		if (optionalUser.isPresent()) {
+			return optionalUser.get();
+		}
+		throw new UserException("user not exist with id: " + userId);
+	}
+
+	@Override
+	public UserModel findUserProfile(String token) throws UserException {
+		// Bearer jsjsalssalskalsa
+		token = token.substring(7);
+
+		JwtTokenClaims jwtTokenClaims = jwtTokenProvider.getClaimsFromToken(token);
+
+		String email = jwtTokenClaims.getUsername();
+
+		Optional<UserModel> optionalUser = userRepository.findByEmail(email);
+
+		if (optionalUser.isPresent()) {
+			return optionalUser.get();
+		}
+
+		throw new UserException("Invalid Token...");
+	}
+
+	@Override
+	public UserModel findUserByUsername(String username) throws UserException {
+		Optional<UserModel> optionalUser = userRepository.findByUsername(username);
+
+		if (optionalUser.isPresent()) {
+			UserModel user = optionalUser.get();
+			return user;
+		}
+		throw new UserException("user not exist with username " + username);
+	}
+
+	@Override
+	public String followUser(Integer reqUserId, Integer followUserId) throws UserException {
+		UserModel followUser = findUserById(followUserId);
+		UserModel reqUser = findUserById(reqUserId);
+
+		UserDto follower = new UserDto();
+		follower.setId(reqUser.getId());
+		follower.setName(reqUser.getName());
+		follower.setUsername(reqUser.getUsername());
+		follower.setUserImage(reqUser.getImage());
+		follower.setEmail(reqUser.getEmail());
+
+		UserDto following = new UserDto();
+		following.setId(followUser.getId());
+		following.setName(followUser.getName());
+		following.setUsername(followUser.getUsername());
+		following.setEmail(followUser.getEmail());
+		following.setUserImage(followUser.getImage());
+
+		followUser.getFollower().add(follower);
+		reqUser.getFollowing().add(following);
+
+		userRepository.save(followUser);
+		userRepository.save(reqUser);
+
+		return "you are following " + followUser.getUsername();
+	}
+
+	@Override
+	public String unfollowUser(Integer reqUserId, Integer unfollowUserId) throws UserException {
+
+		UserModel unfollowUser = findUserById(unfollowUserId);
+		UserModel reqUser = findUserById(reqUserId);
+
+		UserDto unfollow = new UserDto();
+		unfollow.setId(reqUser.getId());
+		unfollow.setName(reqUser.getName());
+		unfollow.setEmail(reqUser.getEmail());
+		unfollow.setUsername(reqUser.getUsername());
+		unfollow.setUserImage(reqUser.getImage());
+
+		UserDto following = new UserDto();
+		following.setId(unfollowUser.getId());
+		following.setName(unfollowUser.getName());
+		following.setEmail(unfollowUser.getEmail());
+		following.setUsername(unfollowUser.getUsername());
+		following.setUserImage(unfollowUser.getImage());
+
+		unfollowUser.getFollower().remove(unfollow);
+		reqUser.getFollowing().remove(following);
+
+		userRepository.save(unfollowUser);
+		userRepository.save(reqUser);
+
+		return "you have unfollowed " + unfollowUser.getUsername();
+	}
+
+	@Override
+	public List<UserModel> findUsersByUserIds(List<Integer> userIds) {
+		List<UserModel> users = userRepository.findAllUserByUserIds(userIds);
+		return users;
+	}
+
+	@Override
+	public List<UserModel> searchUser(String query) throws UserException {
+		List<UserModel> users = userRepository.findByQuery(query);
+		if (users.size() == 0) {
+			throw new UserException("user not exist");
+		}
+		return users;
+	}
+
+	@Override
+	public UserModel updateUserDetails(UserModel updatedUser, UserModel existingUser) throws UserException {
+
+		UserDto userDto=new UserDto();
+		
+		
+		if (updatedUser.getEmail() != null) {
+			existingUser.setEmail(updatedUser.getEmail());
+			userDto.setEmail(updatedUser.getEmail());
+		}
+
+		if (updatedUser.getBio() != null) {
+			existingUser.setBio(updatedUser.getBio());
+		}
+
+		if (updatedUser.getName() != null) {
+			existingUser.setName(updatedUser.getName());
+			userDto.setName(updatedUser.getName());
+		}
+
+		if (updatedUser.getUsername() != null) {
+			existingUser.setUsername(updatedUser.getUsername());
+			userDto.setUsername(updatedUser.getUsername());
+		}
+if (updatedUser.getMobile() != null) {
+			existingUser.setMobile(updatedUser.getMobile());
+		}
+
+		if (updatedUser.getGender() != null) {
+			existingUser.setGender(updatedUser.getGender());
+		}
+
+		if (updatedUser.getWebsite() != null) {
+			existingUser.setWebsite(updatedUser.getWebsite());
+		}
+		if (updatedUser.getImage() != null) {
+			existingUser.setImage(updatedUser.getImage());
+			userDto.setUserImage(updatedUser.getImage());
+		}
+
+		if (updatedUser.getId() != existingUser.getId()) {
+			throw new UserException("you can't uspdate another user");
+		}
+
+	
+		return userRepository.save(existingUser);
+	}
+
+}

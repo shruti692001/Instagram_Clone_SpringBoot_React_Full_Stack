@@ -1,0 +1,1091 @@
+2023-05-21 17:32:20,837 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-21 17:32:46,864 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-21 17:32:47,288 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-21 17:32:49,005 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-21 17:32:49,025 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-21 17:32:49,030 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 17:32:49,865 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-21 17:32:49,870 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-21 17:32:49,872 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 17:32:50,373 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-21 17:32:51,281 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-21 17:32:51,282 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-21 17:32:51,286 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 17:33:14,505 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-21 17:33:14,514 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-21 17:33:14,517 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 17:34:23,262 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-21 17:34:23,269 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-21 17:34:23,272 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 17:35:20,868 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-21 17:35:20,872 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-21 17:35:20,874 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 17:46:34,550 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-21 17:46:34,555 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-21 17:46:34,556 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 18:10:46,365 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-21 18:10:49,710 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2023-05-21 18:10:49,919 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 18:10:49,919 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 18:10:49,924 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 18:10:51,115 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2023-05-21 18:10:51,118 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.24
+2023-05-21 18:10:59,303 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 18:10:59,313 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 18:10:59,315 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 18:11:12,316 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-21 18:11:12,521 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-21 18:11:13,290 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /instagram-springboot-api/src/main/java
+2023-05-21 18:11:13,291 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /instagram-springboot-api/src/main/resources
+2023-05-21 18:11:13,292 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /instagram-springboot-api/src/main/resources
+2023-05-21 18:11:13,292 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /instagram-springboot-api/src/test/java
+2023-05-21 18:11:13,299 [Worker-34: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-17', falling back to workspace default
+2023-05-21 18:11:14,174 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-21 19:10:36,402 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-21 19:10:37,661 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 19:10:37,661 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 19:10:37,666 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 19:10:38,468 [Worker-46: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 19:10:38,486 [Worker-46: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 19:10:38,488 [Worker-46: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 19:11:41,667 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-21 19:11:42,436 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 19:11:42,436 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 19:11:42,440 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 19:11:44,186 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 19:11:44,198 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 19:11:44,200 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 19:13:25,237 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 19:13:25,245 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 19:13:25,248 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 19:15:43,697 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 19:15:43,703 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 19:15:43,707 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:30:46,384 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:30:46,413 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:30:46,417 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:33:36,547 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:33:36,571 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:33:36,574 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:35:38,419 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:35:38,458 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:35:38,462 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:36:53,885 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:36:53,898 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:36:53,900 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:36:59,291 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:36:59,304 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:36:59,306 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:38:52,087 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:38:52,106 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:38:52,109 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:40:16,085 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:40:16,095 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:40:16,097 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:45:21,806 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:45:21,813 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:45:21,815 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:46:40,729 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:46:40,733 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:46:40,736 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:46:55,537 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:46:55,543 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:46:55,546 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:47:31,569 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:47:31,573 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:47:31,577 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:47:55,879 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:47:55,884 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:47:55,889 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:54:11,625 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:54:11,629 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:54:11,632 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:55:04,798 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:55:04,801 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:55:04,803 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 20:55:42,799 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 20:55:42,802 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 20:55:42,803 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:01:40,161 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:01:40,286 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:01:40,292 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:03:13,156 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:03:13,172 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:03:13,175 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:03:45,504 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:03:45,535 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:03:45,537 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:04:02,795 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:04:02,797 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:04:02,799 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:04:14,663 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:04:14,667 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:04:14,669 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:04:53,774 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:04:53,777 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:04:53,779 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:05:06,256 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:05:06,259 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:05:06,261 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:06:13,337 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:06:13,341 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:06:13,342 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:06:41,268 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:06:41,272 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:06:41,274 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:07:03,670 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:07:03,674 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:07:03,675 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:09:43,341 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:09:43,344 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:09:43,346 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:10:14,999 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:10:15,004 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:10:15,006 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:10:24,564 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:10:24,566 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:10:24,568 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:11:39,812 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:11:39,816 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:11:39,817 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:11:44,910 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:11:44,913 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:11:44,915 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:11:46,411 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:11:46,415 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:11:46,418 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:13:33,012 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:13:33,015 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:13:33,017 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:13:44,941 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:13:44,946 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:13:44,947 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:14:02,641 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:14:02,645 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:14:02,647 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:18:17,629 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:18:17,633 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:18:17,634 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:21:55,771 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:21:55,775 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:21:55,776 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:21:59,991 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:21:59,995 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:21:59,996 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-21 22:23:04,524 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-21 22:23:04,528 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-21 22:23:04,530 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:17:35,501 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-22 09:18:48,653 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:18:48,670 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:18:48,677 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:18:52,699 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:18:52,703 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:18:52,706 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:36:27,153 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:36:27,156 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:36:27,160 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:37:04,808 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:37:04,812 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:37:04,815 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:39:51,840 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:39:51,844 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:39:51,847 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:40:27,151 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:40:27,154 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:40:27,157 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:41:07,494 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:41:07,496 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:41:07,498 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:51:01,733 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:51:01,744 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:51:01,747 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:52:18,272 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:52:18,274 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:52:18,277 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:52:45,587 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:52:45,590 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:52:45,593 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:57:13,705 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:57:13,710 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:57:13,712 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 09:58:51,007 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 09:58:51,011 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 09:58:51,013 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:00:25,265 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:00:25,269 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:00:25,271 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:02:03,557 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:02:03,564 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:02:03,566 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:07:32,464 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:07:32,467 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:07:32,468 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:23:48,553 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:23:48,557 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:23:48,559 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:23:50,232 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:23:50,234 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:23:50,236 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:24:17,548 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:24:17,551 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:24:17,553 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:24:49,229 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:24:49,233 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:24:49,236 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:26:46,992 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:26:46,996 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:26:46,998 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:28:29,317 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:28:29,321 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:28:29,322 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:28:32,176 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:28:32,180 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:28:32,182 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:29:27,978 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:29:27,990 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:29:27,993 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:37:37,773 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:37:37,777 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:37:37,779 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:42:33,109 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:42:33,112 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:42:33,114 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:44:56,833 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:44:56,837 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:44:56,839 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:46:45,057 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:46:45,060 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:46:45,062 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:46:53,819 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:46:53,823 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:46:53,825 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:55:30,099 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:55:30,103 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:55:30,106 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 10:58:50,166 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 10:58:50,171 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 10:58:50,173 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:02:12,837 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:02:12,841 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:02:12,843 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:02:50,948 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:02:50,952 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:02:50,955 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:05:59,043 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:05:59,046 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:05:59,049 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:06:35,372 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:06:35,380 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:06:35,385 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:07:18,869 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:07:18,874 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:07:18,876 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:17:47,966 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:17:47,971 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:17:47,973 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:17:59,139 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:17:59,144 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:17:59,147 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:23:05,232 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:23:05,236 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:23:05,238 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:23:41,344 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:23:41,347 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:23:41,349 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:28:41,541 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:28:41,545 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:28:41,546 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:29:49,991 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:29:49,996 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:29:49,998 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:31:19,273 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:31:19,277 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:31:19,278 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:31:21,581 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:31:21,584 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:31:21,585 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:31:25,237 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:31:25,240 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:31:25,243 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:34:28,933 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:34:28,937 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:34:28,939 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:41:02,808 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:41:02,822 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:41:02,824 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:42:51,562 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:42:51,569 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:42:51,571 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:44:40,876 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:44:40,881 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:44:40,884 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:47:04,193 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:47:04,197 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:47:04,199 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:47:39,866 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:47:39,869 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:47:39,871 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:49:07,494 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:49:07,498 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:49:07,502 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:52:09,627 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:52:09,633 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:52:09,635 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 11:58:32,928 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 11:58:32,932 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 11:58:32,933 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:02:34,810 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:02:34,814 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:02:34,817 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:05:14,917 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:05:14,922 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:05:14,924 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:09:10,675 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:09:10,677 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:09:10,679 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:09:28,126 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:09:28,129 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:09:28,131 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:15:47,750 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:15:47,755 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:15:47,757 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:16:11,122 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:16:11,124 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:16:11,127 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:16:54,688 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:16:54,692 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:16:54,694 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:25:15,985 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:25:15,988 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:25:15,990 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:33:44,906 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:33:44,909 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:33:44,911 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 12:44:13,670 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 12:44:13,673 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 12:44:13,675 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 13:29:40,471 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 13:29:40,477 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 13:29:40,483 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 13:31:54,211 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 13:31:54,216 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 13:31:54,218 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 13:36:51,110 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 13:36:51,114 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 13:36:51,115 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 13:44:45,546 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 13:44:45,550 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 13:44:45,551 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 13:45:32,085 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 13:45:32,088 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 13:45:32,090 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 13:52:48,279 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 13:52:48,283 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 13:52:48,284 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 14:10:56,396 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 14:10:56,399 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 14:10:56,401 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 14:10:57,827 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 14:10:57,856 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 14:10:57,860 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:09:11,292 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:09:11,321 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:09:11,324 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:10:15,805 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:10:15,852 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:10:15,855 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:10:28,444 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:10:28,449 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:10:28,452 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:10:39,714 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:10:39,717 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:10:39,719 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:10:41,046 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:10:41,051 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:10:41,054 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:15:32,052 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:15:32,056 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:15:32,059 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:16:02,021 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:16:02,026 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:16:02,029 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:16:51,089 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:16:51,093 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:16:51,094 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:16:53,934 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:16:53,939 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:16:53,941 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:18:07,674 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:18:07,681 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:18:07,683 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:23:14,854 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:23:14,859 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:23:14,860 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:24:05,619 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:24:05,624 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:24:05,626 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:29:30,319 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:29:30,323 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:29:30,325 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:29:52,515 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:29:52,518 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:29:52,520 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:32:18,523 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:32:18,529 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:32:18,531 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:34:08,993 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:34:09,000 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:34:09,003 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:35:01,866 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:35:01,871 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:35:01,873 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:35:27,029 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:35:27,036 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:35:27,038 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:44:03,575 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:44:03,579 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:44:03,580 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:54:10,220 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:54:10,224 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:54:10,227 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:54:32,211 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:54:32,217 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:54:32,219 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 16:54:37,148 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 16:54:37,150 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 16:54:37,152 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-22 21:37:23,267 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-22 21:37:23,292 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-22 21:37:23,296 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:03:54,163 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:03:54,208 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:03:54,215 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:03:58,238 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:03:58,242 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:03:58,244 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:05:57,047 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:05:57,051 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:05:57,053 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:06:12,189 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:06:12,193 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:06:12,195 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:06:13,845 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-23 12:07:18,701 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:07:18,705 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:07:18,707 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:08:38,767 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:08:38,771 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:08:38,773 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:08:41,122 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:08:41,127 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:08:41,130 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:10:11,098 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:10:11,102 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:10:11,104 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:10:18,707 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:10:18,722 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:10:18,725 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:24:12,243 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:24:12,246 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:24:12,248 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:27:10,842 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:27:10,845 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:27:10,847 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:27:59,668 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:27:59,672 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:27:59,673 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:35:00,705 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:35:00,708 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:35:00,710 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:35:03,210 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:35:03,213 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:35:03,215 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:39:28,659 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:39:28,662 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:39:28,663 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:40:03,818 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:40:03,821 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:40:03,823 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:40:54,236 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:40:54,239 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:40:54,240 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 12:41:08,282 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 12:41:08,287 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 12:41:08,289 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:09:09,946 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:09:10,199 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:09:10,326 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:09:23,378 [Worker-15: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-23 20:16:55,186 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:16:55,192 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:16:55,194 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:24:36,280 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:24:36,285 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:24:36,290 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:29:46,419 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:29:46,423 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:29:46,428 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:33:42,780 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:33:42,785 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:33:42,789 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:37:34,891 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:37:34,913 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:37:34,918 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:43:18,877 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:43:18,882 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:43:18,884 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:47:14,024 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:47:14,028 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:47:14,031 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:50:58,923 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:50:58,929 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:50:58,932 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:52:03,096 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:52:03,099 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:52:03,101 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:56:44,531 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:56:44,533 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:56:44,535 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:57:08,753 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:57:08,755 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:57:08,757 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:57:25,554 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:57:25,557 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:57:25,558 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 20:57:50,183 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 20:57:50,189 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 20:57:50,193 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:09:40,178 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:09:40,183 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:09:40,185 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:13:28,459 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:13:28,461 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:13:28,463 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:22:27,652 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:22:27,663 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:22:27,666 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:29:20,996 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:29:20,999 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:29:21,001 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:29:28,601 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:29:28,605 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:29:28,608 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:29:30,294 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:29:30,298 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:29:30,300 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:29:42,187 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:29:42,190 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:29:42,193 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:32:07,872 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:32:07,891 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:32:07,896 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:35:59,938 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:35:59,943 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:35:59,946 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:40:53,697 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:40:53,701 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:40:53,703 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:41:06,123 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:41:06,127 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:41:06,129 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:41:07,335 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:41:07,338 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:41:07,339 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:41:50,614 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:41:50,618 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:41:50,620 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:44:02,360 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:44:02,366 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:44:02,368 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:45:17,172 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:45:17,177 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:45:17,180 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:48:52,576 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:48:52,606 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:48:52,611 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:49:01,070 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:49:01,073 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:49:01,074 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:53:52,812 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:53:52,815 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:53:52,817 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:53:59,492 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:53:59,495 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:53:59,497 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:54:23,931 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:54:23,935 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:54:23,936 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:54:36,544 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:54:36,549 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:54:36,551 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:55:44,527 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:55:44,530 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:55:44,531 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:59:37,782 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-23 21:59:38,920 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:59:38,921 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:59:38,923 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 21:59:40,808 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-23 21:59:40,820 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-23 21:59:40,823 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-23 22:00:10,155 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-23 22:00:10,326 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.instagram:instagram-springboot-api:0.0.1-SNAPSHOT @ C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\pom.xml.
+2023-05-23 22:00:11,055 [Worker-72: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /instagram-springboot-api/src/main/java
+2023-05-23 22:00:11,055 [Worker-72: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /instagram-springboot-api/src/main/resources
+2023-05-23 22:00:11,056 [Worker-72: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /instagram-springboot-api/src/main/resources
+2023-05-23 22:00:11,056 [Worker-72: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /instagram-springboot-api/src/test/java
+2023-05-23 22:00:11,061 [Worker-72: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-17', falling back to workspace default
+2023-05-23 22:00:11,965 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-24 09:11:47,795 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-24 09:16:31,558 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:16:31,589 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:16:31,594 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:42:57,974 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:42:57,979 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:42:57,982 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:44:04,846 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:44:04,851 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:44:04,854 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:44:07,932 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:44:07,935 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:44:07,937 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:45:11,325 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:45:11,328 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:45:11,330 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:48:11,863 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:48:11,881 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:48:11,886 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:48:24,113 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:48:24,117 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:48:24,120 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:48:46,930 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:48:46,934 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:48:46,937 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:49:47,993 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:49:47,997 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:49:47,999 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:52:31,466 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:52:31,471 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:52:31,473 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:52:34,649 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:52:34,657 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:52:34,659 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 09:55:09,502 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 09:55:09,506 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 09:55:09,508 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 10:08:31,097 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 10:08:31,102 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 10:08:31,104 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 10:13:06,550 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 10:13:06,556 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 10:13:06,559 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 10:15:55,992 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 10:15:55,995 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 10:15:55,996 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 10:17:04,562 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 10:17:04,565 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 10:17:04,566 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 10:51:30,790 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 10:51:30,810 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 10:51:30,813 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 16:30:31,232 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 16:30:31,383 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 16:30:31,391 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 16:30:55,122 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 16:30:55,169 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 16:30:55,172 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 16:31:19,605 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 16:31:19,610 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 16:31:19,614 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 16:31:51,177 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 16:31:51,198 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 16:31:51,206 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 16:33:11,216 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 16:33:11,223 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 16:33:11,226 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 16:33:15,417 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 16:33:15,422 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 16:33:15,426 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 16:37:09,416 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 16:37:09,423 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 16:37:09,427 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-24 20:37:49,799 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-24 20:37:49,893 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-24 20:37:49,906 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 08:44:26,010 [Worker-14: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-25 08:48:34,985 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 08:48:35,027 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 08:48:35,043 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 08:51:09,253 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 08:51:09,256 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 08:51:09,259 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 08:53:45,895 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 08:53:45,899 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 08:53:45,902 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 08:54:09,762 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 08:54:09,765 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 08:54:09,767 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:17:22,535 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:17:22,539 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:17:22,542 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:24:19,598 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:24:19,602 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:24:19,604 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:24:34,458 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:24:34,463 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:24:34,466 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:50:06,004 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:06,009 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:50:06,011 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:50:10,117 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:10,119 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:50:10,121 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:50:16,302 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:16,307 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:50:16,309 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:50:50,332 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:50,337 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:50:50,340 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:50:55,865 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:55,870 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:50:55,873 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 09:56:44,790 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:56:44,794 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:56:44,796 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:00:52,343 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:00:52,347 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:00:52,350 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:01:05,816 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:01:05,827 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:01:05,830 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:01:18,840 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:01:18,846 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:01:18,848 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:03:42,841 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:03:42,844 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:03:42,847 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:04:25,751 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:04:25,755 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:04:25,757 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:06:18,698 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:06:18,702 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:06:18,703 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:06:54,512 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:06:54,516 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:06:54,517 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:13:05,207 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:13:05,210 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:13:05,212 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:21:38,026 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:21:38,029 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:21:38,031 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:23:30,221 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:23:30,226 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:23:30,228 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:40:51,939 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:40:51,944 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:40:51,947 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:45:19,014 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:45:19,018 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:45:19,020 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:48:07,773 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:48:07,776 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:48:07,779 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:48:26,382 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:48:26,386 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:48:26,388 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:52:49,468 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:52:49,471 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:52:49,473 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:55:33,853 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:55:33,858 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:55:33,860 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:56:02,556 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:56:02,560 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:56:02,562 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:56:52,941 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:56:52,944 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:56:52,946 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:57:26,551 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:57:26,554 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:57:26,556 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:58:21,135 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:58:21,138 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:58:21,140 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:58:31,688 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:58:31,691 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:58:31,693 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 10:59:41,858 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:59:41,861 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:59:41,863 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 11:00:18,105 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:00:18,108 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:00:18,109 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 11:00:45,869 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:00:45,873 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:00:45,874 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:00:03,009 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:00:03,016 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:00:03,020 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:00:22,632 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:00:22,639 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:00:22,641 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:00:38,749 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:00:38,753 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:00:38,755 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:01:14,502 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:01:14,505 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:01:14,508 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:03:50,162 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:03:50,165 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:03:50,167 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:06:46,585 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:06:46,590 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:06:46,592 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:07:23,074 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:07:23,078 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:07:23,079 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:10:43,127 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:10:43,130 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:10:43,131 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:10:59,441 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:10:59,443 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:10:59,444 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:13:05,045 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:13:05,050 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:13:05,052 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:20:26,155 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:20:26,158 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:20:26,159 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:23:37,464 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:23:37,466 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:23:37,468 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:30:15,697 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:30:15,700 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:30:15,702 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:30:24,281 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:30:24,284 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:30:24,285 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:34:36,816 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:34:36,819 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:34:36,821 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:36:22,001 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:36:22,006 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:36:22,009 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:37:16,434 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:37:16,440 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:37:16,442 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:37:25,183 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:37:25,187 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:37:25,188 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:39:03,696 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:39:03,699 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:39:03,700 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:39:48,785 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:39:48,789 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:39:48,791 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:41:00,336 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:41:00,339 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:41:00,340 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:50:00,994 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:50:00,998 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:50:00,999 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:59:36,365 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:59:36,375 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:59:36,376 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 12:59:38,498 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:59:38,505 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:59:38,507 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:00:30,694 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:00:30,702 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:00:30,703 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:00:43,513 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:00:43,516 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:00:43,517 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:06:45,804 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:06:45,809 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:06:45,811 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:13:13,068 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:13:13,073 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:13:13,075 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:13:17,928 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:13:17,932 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:13:17,934 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:19:41,085 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:19:41,089 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:19:41,090 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:19:44,156 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:19:44,159 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:19:44,159 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:24:32,223 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:24:32,228 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:24:32,230 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:31:30,080 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:31:30,084 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:31:30,086 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 13:35:10,683 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:35:10,687 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:35:10,689 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 17:20:00,977 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 17:20:01,040 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 17:20:01,042 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 17:23:45,897 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 17:23:45,899 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 17:23:45,902 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-25 17:26:12,902 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 17:26:12,905 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 17:26:12,906 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 09:53:39,828 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 09:53:39,845 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 09:53:39,847 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 10:34:30,133 [Worker-24: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-26 17:10:36,681 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-26 17:42:26,690 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 17:42:26,705 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 17:42:26,709 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 18:00:22,564 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 18:00:22,571 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 18:00:22,573 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 18:08:48,793 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 18:08:48,797 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 18:08:48,799 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 18:09:58,649 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 18:09:58,653 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 18:09:58,655 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 18:16:18,707 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 18:16:18,723 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 18:16:18,725 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 18:16:21,343 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 18:16:21,350 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 18:16:21,352 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 18:19:07,033 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 18:19:07,039 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 18:19:07,041 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-26 18:21:08,690 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 18:21:08,696 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 18:21:08,701 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-27 09:56:53,666 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-27 09:56:53,691 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-27 09:56:53,695 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-27 10:04:27,133 [Worker-24: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-27 11:53:06,172 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-27 11:53:06,184 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-27 11:53:06,188 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-27 11:53:17,091 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-27 11:53:17,094 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-27 11:53:17,096 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-27 11:53:34,846 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-27 11:53:34,850 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-27 11:53:34,853 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-27 12:03:31,939 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-27 12:03:31,943 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-27 12:03:31,945 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-28 12:28:11,071 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-29 09:19:40,677 [Worker-18: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-29 10:24:09,448 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-29 10:24:09,472 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-29 10:24:09,476 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-29 18:12:23,231 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-29 18:12:23,239 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-29 18:12:23,245 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-29 18:15:21,734 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-29 18:15:21,740 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-29 18:15:21,745 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-29 18:15:47,849 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-29 18:15:47,852 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-29 18:15:47,856 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 09:06:15,906 [Worker-23: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-30 09:06:22,733 [Worker-21: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 09:06:22,760 [Worker-21: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 09:06:22,765 [Worker-21: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 11:27:51,661 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 11:27:51,709 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 11:27:51,712 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 15:33:55,959 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 15:33:56,036 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 15:33:56,039 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 18:49:13,587 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 18:49:13,603 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 18:49:13,606 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 18:52:06,075 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 18:52:06,090 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 18:52:06,093 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 18:53:09,234 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 18:53:09,253 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 18:53:09,257 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 18:53:36,284 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 18:53:36,290 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 18:53:36,292 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:02:48,543 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:02:48,548 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:02:48,552 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:20:39,841 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:20:39,855 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:20:39,859 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:29:54,730 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:29:54,741 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:29:54,743 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:31:43,987 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:31:43,995 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:31:43,999 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:35:35,584 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:35:35,603 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:35:35,608 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:36:37,369 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:36:37,372 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:36:37,374 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:41:45,698 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:41:45,703 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:41:45,705 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:41:48,968 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:41:48,973 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:41:48,976 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:44:53,999 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:44:54,004 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:44:54,007 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:44:55,795 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:44:55,798 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:44:55,799 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:45:29,997 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:45:30,001 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:45:30,003 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:45:37,425 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:45:37,429 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:45:37,431 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-30 19:45:38,693 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-30 19:45:38,697 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-30 19:45:38,700 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 09:17:53,798 [Worker-22: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-31 09:17:58,091 [Worker-22: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 09:17:58,135 [Worker-22: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 09:17:58,144 [Worker-22: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 17:16:44,198 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 17:16:44,203 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 17:16:44,208 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 17:17:02,734 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 17:17:02,739 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 17:17:02,742 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 17:21:16,377 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 17:21:16,382 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 17:21:16,385 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 17:25:47,560 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 17:25:47,566 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 17:25:47,570 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 17:38:07,343 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 17:38:07,349 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 17:38:07,353 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 17:38:10,460 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 17:38:10,464 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 17:38:10,467 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 17:41:55,900 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 17:41:55,905 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 17:41:55,908 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-05-31 17:45:40,147 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-31 17:45:40,152 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-31 17:45:40,156 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-07-03 08:13:06,502 [Worker-15: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-07-03 08:31:42,413 [Worker-22: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-07-03 08:31:42,423 [Worker-22: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-07-03 08:31:42,427 [Worker-22: Launching instagram-springboot-api - InstagramSpringbootApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nikit\PROJECTS\Instagram-Springboot-React-Full-Stack\instagram-springboot-api\src\test\resources
+2023-07-17 20:12:42,544 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
